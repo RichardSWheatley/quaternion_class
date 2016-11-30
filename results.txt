@@ -1,0 +1,16 @@
+rwheatley_quaternion.cpp: In function 'void azimuth_quaternion(quat_t&, quat_t&, quat_t&, quat_t&)':
+rwheatley_quaternion.cpp:72:10: error: 'virtual quat_t::~quat_t()' is protected
+rwheatley_quaternion.cpp:249:28: error: within this context
+rwheatley_quaternion.cpp:72:10: error: 'virtual quat_t::~quat_t()' is protected
+rwheatley_quaternion.cpp:249:34: error: within this context
+rwheatley_quaternion.cpp:72:10: error: 'virtual quat_t::~quat_t()' is protected
+rwheatley_quaternion.cpp:249:40: error: within this context
+rwheatley_quaternion.cpp:72:10: error: 'virtual quat_t::~quat_t()' is protected
+rwheatley_quaternion.cpp:249:46: error: within this context
+rwheatley_quaternion.cpp: In function 'void total_rotation_quaternion(quat_t&, quat_t&, quat_t&, quat_t&)':
+rwheatley_quaternion.cpp:72:10: error: 'virtual quat_t::~quat_t()' is protected
+rwheatley_quaternion.cpp:261:19: error: within this context
+rwheatley_quaternion.cpp:72:10: error: 'virtual quat_t::~quat_t()' is protected
+rwheatley_quaternion.cpp:261:25: error: within this context
+rwheatley_quaternion.cpp: At global scope:
+rwheatley_quaternion.cpp:271:1: error: expected unqualified-id before string constant
