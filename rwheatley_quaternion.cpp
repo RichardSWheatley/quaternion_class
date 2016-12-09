@@ -25,10 +25,12 @@ private:
 	double vx, vy, vz;
 
 protected:
+
+	
+public:
 	// a simple destructor.
 	virtual ~vector3_t();
 	
-public:
 	// Constructors with and without initialized values
 	vector3_t(void){
 		vx = 0.0; vy = 0.0; vz = 0.0;
